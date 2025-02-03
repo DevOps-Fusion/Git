@@ -1,0 +1,39 @@
+1. command to check git is installed or not.
+
+        cmd:     dpkg -l | grep git
+
+2. Command to install git.
+
+       cmd : apt install -y git
+
+3. Command to check git version. 
+
+        cmd :  git --version
+
+4. Create Branch
+
+      cmd :  git branch  <branch name>
+
+5. List Branch
+
+      cmd:  git branch --list
+
+6. Delete Branch
+
+      cmd:  git branch -d<branch name>
+
+7. Switch Branch
+
+      cmd:  git checkout<branch name>
+
+8. Switch to master branch
+
+     cmd: git branch -m master or main
+
+9   Rename Branch
+
+     cmd:  git branch -m <old branch name><new branch name>
+
+10. Merge Branch
+
+     cmd:  git merge <branch name>
