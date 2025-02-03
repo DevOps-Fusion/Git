@@ -1,0 +1,58 @@
+# GIT
+
+**Git** is an **open-source distributed version control system**. It is designed to handle minor to major projects with high speed and efficiency. It is developed to co-ordinate the work among the developers. The version control allows us to track and work together with our team members at the same workspace.
+
+1. Git is foundation of many services like **GitHub** and **GitLab**, but we can use Git without using any other Git services. Git can be used **privately** and **publicly**.
+2. Git was created by **Linus Torvalds** in **2005** to develop Linux Kernel. It is also used as an important distributed version-control tool for **the DevOps**.
+3. Git is easy to learn, and has fast performance. It is superior to other SCM tools like Subversion, CVS, Perforce, and ClearCase
+
+**Features of Git.**
+
+- **Open Source:** Git is an **open-source tool**. It is released under the **GPL** (General Public License) license.
+- **Scalable:** Git is **scalable**, which means when the number of users increases, the Git can easily handle such situations.
+- **Distributed:** One of Git's great features is that it is **distributed**. Distributed means that instead of switching the project to another machine, we can create a "clone" of the entire repository. Also, instead of just having one central repository that you send changes to, every user has their own repository that contains the entire commit history of the project. We do not need to connect to the remote repository; the change is just stored on our local repository. If necessary, we can push these changes to a remote repository.
+- **Security:** Git is secure. It uses the **SHA1 (Secure Hash Function)** to name and identify objects within its repository. Files and commits are checked and retrieved by its checksum at the time of checkout. It stores its history in such a way that the ID of particular commits depends upon the complete development history leading up to that commit. Once it is published, one cannot make changes to its old version.
+- **Branching and merging** are the **great feature**s of Git, which makes it different from the other SCM tools. Git allows the **creation of multiple branches** without affecting each other. We can perform tasks like **creation, deletion**, and **merging** on branches, and these tasks take a few seconds only. Below are some features that can be achieved by branching
+
+**Benefits of Git:** 
+
+- **Saves Time:** Git is lightning fast technology. Each command takes only a few seconds to execute so we can save a lot of time as compared to login to a GitHub account and find out its features.
+- **Offline Working:** One of the most important benefits of Git is that it supports **offline working**. If we are facing internet connectivity issues, it will not affect our work. In Git, we can do almost everything locally. Comparatively, other CVS like SVN is limited and prefer the connection with the central repository.
+- **Undo Mistakes:** One additional benefit of Git is we can **Undo** mistakes. Sometimes the undo can be a savior option for us. Git provides the undo option for almost everything.
+- **Track the Changes:** Git facilitates with some exciting features such as **Diff, Log,** and **Status**, which allows us to track changes so we can **check the status, compare** our files or branches.
+
+# **What is GitHub?**
+
+GitHub is a Git repository hosting service. GitHub also facilitates with many of its features, such as access control and collaboration. It provides a Web-based graphical interface.
+
+GitHub is an American company. It hosts source code of your project in the form of different programming languages and keeps track of the various changes made by programmers.
+
+It offers both **distributed version control and source code management (SCM)** functionality of Git. It also facilitates with some collaboration features such as bug tracking, feature requests, task management for every project.
+
+**Features of GitHub**
+
+- Collaboration
+- Integrated issue and bug tracking
+- Graphical representation of branches
+- Git repositories hosting
+- Project management
+- Team management
+- Code hosting
+- Track and assign tasks
+- Conversations
+- Wikisc
+
+## **Benefits of the Version Control System**
+
+The Version Control System is very helpful and beneficial in software development; developing software without using version control is unsafe. It provides backups for uncertainty. Version control systems offer a speedy interface to developers. It also allows software teams to preserve efficiency and agility according to the team scales to include more developers.
+
+- Complete change history of the file
+- Simultaneously working
+- Branching and merging
+- Traceability
+
+## **Types of Version Control System**
+
+- Localized version Control System
+- Centralized version control systems
+- Distributed version control systems
